@@ -1,4 +1,4 @@
-# R2L Lab — Sparse vs. Dense Retrieval on SciFact
+# Sparse vs. Dense Retrieval on SciFact
 
 ## Project structure (brief)
 
